@@ -19,5 +19,5 @@ O MLPClassifier (um algoritmo de Redes Neurais) obteve maior acurácia nos dados
 
 ## [Etapa 5: Selecionando outros algoritmos para fazer a previsão](https://github.com/mike-antunes/Projeto-Titanic/blob/main/An%C3%A1lise_do_Titanic_-_Parte_5.ipynb)
 - Agora foi utilizado o GridSearchCV para determinar as melhores configurações para os 3 modelos que utilizamos na etapa anterior.
-Nesse caso, o modelo escolhido foi aquele que utilizou o RandomForest e o resultado melhorou consideravelmente em relação à etapa 4 e foi melhor que na etapa 3.
+Nesse caso, o modelo escolhido foi aquele que utilizou o RandomForest melhorando consideravelmente em relação à etapa 4 e foi melhor que na etapa 3.
 **O score retornado pelo Kaggle foi de 0,78229.**
